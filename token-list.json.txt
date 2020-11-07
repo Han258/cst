@@ -1,0 +1,26 @@
+
+{
+  "name": "CST",
+  "logoURI": "https://i.loli.net/2020/11/07/ps9zXfw1UqtZOmh.png",
+  "keywords": [
+      "cst",
+      "CST",
+      "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x2ac865322c358a23f42cbefdb8afe94c21950a14",
+      "name": "CST",
+      "symbol": "CST",
+      "decimals": 18,
+      "logoURI": "https://i.loli.net/2020/11/07/ps9zXfw1UqtZOmh.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
