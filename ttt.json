@@ -1,0 +1,25 @@
+{
+  "name": "CSTList",
+  "logoURI": "https://s3.ax1x.com/2020/11/12/DS9Q4e.jpg",
+  "keywords": [
+      "defi",
+      "CST",
+      "yield"
+    ],
+    "timestamp": "2020-10-17T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x2ac865322c358a23f42cbefdb8afe94c21950a14",
+      "name": "CST Coin",
+      "symbol": "CST",
+      "decimals": 18,
+      "logoURI": "https://s3.ax1x.com/2020/11/12/DS9Q4e.jpg"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
